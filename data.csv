@@ -1,3 +1,2 @@
-Foo,Latitude,Longitude,title,description
-Trinity College,41.745167,-72.69263, title1, description1
-Wesleyan University,41.55709,-72.65691, title2, description2
+'Foo,Latitude,Longitude,title,description\n' +
+'bar,41.34,122.86,a point somewhere,the description of this point

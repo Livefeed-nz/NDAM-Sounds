@@ -1,4 +1,4 @@
 Foo,Latitude,Longitude,title,description
-bar,41.34,122.86,a point somewhere,the description of this point
-AD,42.546245,1.601554.Andorra
-AE,23.424076,53.847818,United Arab Emirates
+bar,41.34,122.86,a point somewhere,the description of this point,
+AD,42.546245,1.601554.Andorra,
+AE,23.424076,53.847818,United Arab Emirates,
